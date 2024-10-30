@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6b9f487-5d19-4dab-a877-f5ff4070d880" name="DuckDiver">
+        <fileTransfer rootFolder="/home3/duckdiver/demo.duckdiver.net/wp-content/plugins/connect-contact-form-7-to-constant-contact-v3" accessType="SFTP" host="34.198.44.108" port="22" sshConfigId="aaf4057b-2c97-40b7-a7b8-db9c8111be11" sshConfig="duckdiver@34.198.44.108:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
